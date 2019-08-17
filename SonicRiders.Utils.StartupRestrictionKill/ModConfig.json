@@ -2,10 +2,10 @@
   "ModId": "sonicriders.utils.startuprestrictionkill",
   "ModName": "Sonic Riders: Startup Restriction Killer",
   "ModAuthor": "Sewer56",
-  "ModVersion": "1.0.0",
+  "ModVersion": "1.0.1",
   "ModDescription": "Removes the `You must start the game from the launcher`, and `Sonic Riders is already running on your PC` restrictions.",
   "ModDll": "SonicRiders.Utils.StartupRestrictionKill.dll",
   "ModIcon": "Preview.png",
   "ModDependencies": [],
-  "SupportedAppId": [ "SonicRiders.exe" ]
+  "SupportedAppId": [ "SonicRiders.exe", "sonicriders.exe" ]
 }
